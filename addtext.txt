@@ -1,0 +1,30 @@
+{{coord|display=title| 23.130011 | 73.61087}}
+
+{{Infobox Indian jurisdiction
+| type               = ગામ
+| native_name        = %s
+| state_name         = ગુજરાત
+| district           = પંચમહાલ
+| taluk_names             =  લુણાવાડા
+| latd =23.130011  |latm = |lats = 
+| longd= 73.61087   |longm= |longs= 
+| area_total         = 
+| altitude           = 
+| population_total   = 
+| population_as_of   = 
+| population_density = 
+| leader_title_1     = 
+| leader_name_1      = 
+| leader_title_2     = 
+| leader_name_2      = 
+| footnotes          = 
+| blank_title_1           = સગવડો
+| blank_value_1           = [[પ્રાથમિક શાળા]], [[પંચાયતઘર]], [[આંગણવાડી]], દૂધની ડેરી
+| blank_title_2           = મુખ્ય વ્યવસાય
+| blank_value_2           = [[ખેતી]], [[ખેતમજુરી]], [[પશુપાલન]]
+| blank_title_3           = મુખ્ય ખેતપેદાશ
+| blank_value_3           = [[મકાઇ]], [[બાજરી]], [[તુવર]], [[શાકભાજી]]
+| blank_title_4           = 
+| blank_value_4           = 
+}}
+
